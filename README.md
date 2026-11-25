@@ -165,4 +165,4 @@ Recovered files are saved to the `output\` folder in the same directory as the e
 
 ## License
 
-This project is provided for educational purposes. Use at your own risk.
+Released under the [MIT License](LICENSE). Built for learning and data recovery on your own drives; it is provided as is, so use it at your own risk.
